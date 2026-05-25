@@ -4,6 +4,7 @@ import LatestInvoices from '@/app/ui/dashboard/latest-invoices';
 import { lusitana } from '@/app/ui/fonts';
 import { Metadata } from 'next';
 
+export const dynamic = 'force-dynamic';
 
 import { Suspense } from 'react';
 
